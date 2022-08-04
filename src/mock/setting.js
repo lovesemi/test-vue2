@@ -4,7 +4,7 @@ Mock.mock("/api/setting", "get", {
   msg: "",
   data: {
     avatar:
-      "https://img0.baidu.com/it/u=1636089727,699356702&fm=26&fmt=auto&gp=0.jpg",
+      "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.cnxz.cn%2Fe%2F..%2Fphoto_upload%2Ffashion_model%2F201105%2F1305015351625.jpg&refer=http%3A%2F%2Fwww.cnxz.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662193702&t=2bbd303a2de83f305f9c2b87097db314",
     siteTitle: "JackMa的个人空间",
     github: "https://github.com/DuYi-Edu",
     qq: "3263023350",

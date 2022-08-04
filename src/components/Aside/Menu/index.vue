@@ -35,7 +35,7 @@ export default {
         },
         {
           name: "Aboutme",
-          title: "关于我",
+          title: "Echart案例",
           icon: "about",
           exact: true,
         },

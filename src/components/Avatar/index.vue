@@ -15,7 +15,7 @@ export default {
     },
     size: {
       type: Number,
-      default: 150,
+      default: 150, //组件默认值
     },
   },
 };

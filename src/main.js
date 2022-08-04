@@ -9,10 +9,13 @@ import "@/mock";
 
 import showMessage from "@/utils/showMessage";
 import vLoading from "@/directives/loading.js";
+import * as echarts from "echarts";
 import "./eventBus";
 import store from "@/store";
 store.dispatch("setting/fetchSetting");
 Vue.prototype.$showMessage = showMessage;
+Vue.prototype.$echarts = echarts;
+
 import "@/api/banner";
 
 Vue.directive("loading", vLoading);
